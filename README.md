@@ -1,9 +1,7 @@
-## Ciallo～(∠・ω< )⌒★
-
-awa
+## Ciallo～(∠・ω< )⌒★ awa
 
 祝
 
-rp++ rks++ score++
+$rp$++ $rks$++ $score$++ $AP$++ $AC$++ $AK$++
 
-AP++ AC++ AK++
+TLE 我好怕怕，MLE 我掉渣渣，AC 变红我吹喇叭······ 在生成溪用生成器生成一个生成系的生成西。 $DP = 大炮 = 毒品 = 带 \pi$ 这只 Wi-Fi Old Fe，几天不见，这么带 $\pi$ 了
