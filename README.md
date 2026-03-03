@@ -1,14 +1,17 @@
-> ![](https://github.com/fuxianhu/fuxianhu/blob/main/phi.png?raw=true)
-> 
-> ![](https://github.com/fuxianhu/fuxianhu/blob/main/phigros.png?raw=true)
+![](https://github.com/fuxianhu/fuxianhu/blob/main/phi.png?raw=true)
 
 ## Ciallo～(∠・ω< )⌒★ 
 
-一坨小学生，成分估计写不满一本新华字典（？
+一坨小学生，成分估计写得满一本新华字典（？
 
-OIer + 网页开发 + MCDR 插件开发 + Qt 等桌面软件开发 + Unity 游戏开发，玩 Minecraft（红石兼建筑）和音游。代表作：VoidCrawler
+- 成分：OIer + 网页开发 + MCDR 插件开发 + Qt 等桌面软件开发 + Unity 游戏开发，略会亿点建模、PS、剪视频、Linux，喜爱 B 站和给特哈普！
+- 给木：Phigros + Phira + Minecraft（红石兼建筑，半退坑） + 图灵完备（退坑）。
 
 $rp$++ $rks$++ $score$++ $AP$++ $AC$++ $AK$++
 
 > [!NOTE]
-> [神秘小作文与日记 点击查看](https://github.com/fuxianhu/Diary)（太长了，个人主页貌似装不下咕）
+> [点击查看：**神秘小作文**](https://github.com/fuxianhu/Diary)
+
+另外，欢迎来尝逝一下我的 VoidCrawler, 虽然做得像一坨（？
+
+~~如果能在别人加载我的个人主页时自动播放 Destruction 3,2,1 的话，，，（我太坏了~~
