@@ -12,6 +12,6 @@ $rp$++ $rks$++ $score$++ $AP$++ $AC$++ $AK$++
 > [!NOTE]
 > [点击查看：**神秘小作文**](https://github.com/fuxianhu/Diary)
 
-另外，欢迎来尝逝一下我的 VoidCrawler, 虽然做得像一坨（？
+另外，欢迎来尝逝一下我的 [VoidCrawler](https://github.com/fuxianhu/VoidCrawler)！（初期开发阶段勿喷
 
 ~~如果能在别人加载我的个人主页时自动播放 Destruction 3,2,1 的话，，，（我太坏了~~
