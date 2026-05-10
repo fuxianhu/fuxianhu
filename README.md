@@ -1,47 +1,51 @@
-![](https://github.com/fuxianhu/fuxianhu/blob/main/phi.png?raw=true)
+![](https://github.com/fuxianhu/fuxianhu/blob/main/12.png?raw=true)
 
-## Ciallo～(∠・ω< )⌒★ 
+## 听我说，
 
-一只小学生鸽子，成分估计写得满一本新华字典（？
+一只鸽子坠落于 Github 中，
 
-- 成分：OIer + 网页开发 + MCDR 插件开发 + Qt 等桌面软件开发 + Unity 游戏开发，略会亿点建模、PS、剪视频、Linux、服务器
-- 给木：Phigros + Phira + Minecraft（红石兼建筑，半退坑） + 图灵完备（退坑）。
+他不知道自己叫什么名字，
 
-祝看到的： $rp$++ $rks$++ $score$++ $AP$++ $AC$++ $AK$++
+也不知道自己为什么会在这儿，
+
+他向前走去......
+
+**至此，一锤定音。**
+
+**尘埃，已然落定。**
+
+- Hobbies: OIer,  Web Dev,  MCDR Plugin Dev,  Qt Dev,  Unity Game Dev, Blender, Photoshop, Linux Server...
+- Games: Phigros, Arcaea,  osu!,  Phira (Not playing anymore: Minecraft，Turing Complete)
+
+$rp$++ $rks$++ $score$++ $AP$++ $AC$++ $AK$++
+
+$$
+RP, AC, AK \leftarrow \displaystyle\lim_{x \rightarrow \aleph_0} \sqrt x \times \sum_{i=1}^{+\infty}\frac{1}{i}
+$$
+
+$$
+RKS, Score, AP \leftarrow \int_{e^{i \pi} + \frac{1}{2 \pi}}^{+\infty} {x^2 \times dx}
+$$
 
 > [!NOTE]
-> 神秘小作文：最近机房成分越来越复杂了。。。（是人类啊！《人类不好吃》锐疼哼！肘击...谁掉井里了？饿啊！60个桌面！世界最短代码——一个空格有10分！远程黑入自己电脑？！老湿\/！勇敢的人类！人类一败涂地！喔哇！偶不！xxx要破顶了！老湿正为情人节发愁！UKE！扣帽子！明目张胆！那个那个，那个那个那个......我说这到底是过情人节还是圣诞节？！每日逆天发言（114514/1）我要跑路了！给我改bug！我是光头强，我要砍树！做水题会给树木提供营养！被老师的紫题虐了。《我回家把帽子剪了》老师来查代码！一坨燃油车建树，一把火便烧完了，方便我们砍树（：老湿：叽里咕噜说啥呢？！耶嘿嘿！我要淹代码！UnderMonth！吃光后人！ber！ansansans！xxx只是少写了一个x，就被老湿活活打断了双腿！俺不到啊！连接 Wi-Fi...疯了，重开把！你，你，你！有病吧！啊shit！洛谷不是人！我要验牌！特判数据点AC！同一份代码跑出3个不同的结果！TLE 我好怕怕，MLE 我掉渣渣，AC 变红我吹喇叭······ 在生成溪用生成器生成一个生成系的生成西。 $DP = 大炮 = 毒品 = 带 \pi$ 这只 Wi-Fi Old Fe，几天不见，这么带 $\pi$ 了 （成分复杂）f**k循环出题人，不是为什么会进WC！样例有问题！我去！居然得1分了！十八重循环，大哥上楼梯！咕咕！不行，我不想写cin，复制一个cin过来。我要写汇编！肘击！你猜老湿的手机为什么是横着的？老湿你拿不到AP的！嗯~好题！跑路！xiaochenOI.wiki！可以啊！加个树剖！不是我怎么没有树啊！
->
-> 怎么还有 galgame 的事？逆天！何意味？啊？是人类吗？人类进化之路。。。
-
-> [!NOTE]
-> INITALIZING……
+> 如果你是 Arcaea 玩家，不妨来做一下我的题吧！
 > 
-> SCANING……
+> 已知：
 > 
-> CONNECTING……__PhigrOS Client Login
+> $$
+n = 3, m = 4 \\
+A_{n,m} = \begin{pmatrix}
+    0 & 0 & 1 & 0 \\
+    0 & 1 & 1 & 0 \\
+    1 & 0 & 0 & 0
+\end{pmatrix}
+$$
 > 
-> TIME_OUT!
+> 求：
 > 
-> CONNECTING……__Unknown
-> 
-> SUCCESS!
-> 
-> ————————
-> 
-> ……九……鸟……
-> 
-> ……鸠……！
-> 
-> ……喂？
-> 
-> …听得到吗？
-> 
-> 鸠?![SIGNAL LOST]
->
-> （鸠可爱捏
+> $$
+(-1)^{2} \times \sum_{i=1}^{n}\sum_{j=1}^{m}{A_{i,j} \times 2^{(n - i) \times m + m - j}}
+$$
 
 > [!TIP]
-> 不错的谱面，谱面与音乐相互呼应，声光交融，指尖灵动，即使是我也感到心潮澎湃
->
-> 不错的题目，题面与代码相互呼应，时空交融，键盘如飞，即使是我也感到WA的快感
+> 旧个人主页已迁移至 [旧主页](https://github.com/fuxianhu/fuxianhu/blob/main/Other.md)
